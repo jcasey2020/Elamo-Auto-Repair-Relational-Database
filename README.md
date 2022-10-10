@@ -1,2 +1,3 @@
 # Elamo-Auto-Repair
 This project shows the steps taken to create a relational database for an automobile repair company. Each file corresponds to a different phase of the SDLC. I began by creating a logical schema based on information from the company about their business rules and needs. Next, I transformed that logical schema into a physical schema to remove functional dependencies and prepare for the implementation of a database in PostgreSQL. The last file shows a large DDL query that successfully creates the final structure of our company's database objects.
+*Note: Please download the "Physical Schema.pdf" file for a complete view
